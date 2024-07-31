@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-### Hi, I'm Muhammad Haseeb 👋
+## Hi, I'm Muhammad Haseeb 👋
 
 I'm an enthusiastic **Full Stack Developer in training at SMIT (Saylani Mass IT Training)**, with a strong focus on the **MERN stack (MongoDB, Express.js, React, and Node.js)**. I thrive on creating responsive and dynamic web applications that deliver exceptional user experiences.
 
