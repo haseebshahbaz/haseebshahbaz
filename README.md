@@ -10,6 +10,9 @@ I'm an enthusiastic **Full Stack Developer in training at SMIT (Saylani Mass IT 
 I'm currently expanding my skill set by diving deep into **TypeScript** and **React Native**, aiming to enhance my capabilities as a versatile developer.
 
 ## 👨‍💻 Featured Project
+### [INTERNEE.PK](https://haseebshahbaz.github.io/Internee.pk/)
+As my second Task at Internee.Pk I have Redesigned the internee.pk website to enhance user experience. 
+
 ### [ECOMWARE](https://haseebshahbaz.github.io/ECOMWARE/)
 A comprehensive E-commerce website showcasing my ability to integrate various technologies and deliver a seamless online shopping experience.
 
