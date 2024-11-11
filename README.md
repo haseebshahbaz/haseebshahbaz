@@ -40,16 +40,16 @@ I'm here to share knowledge and insights about **JavaScript**, **TypeScript**, *
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=haseebshahbaz&theme=default)
 
 ## 💻 Languages and Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=social&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=social&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=social&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=social&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=social&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=social&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=social&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=social&logo=firebase&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=social&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=social&logo=html5&logoColor=white)
+![JavaScript](https://badgen.net/badge/icon/JavaScript/ffcc00?icon=javascript&label)
+![TypeScript](https://badgen.net/badge/icon/TypeScript/3178c6?icon=typescript&label)
+![React](https://badgen.net/badge/icon/React/61dafb?icon=react&label)
+![Next.js](https://badgen.net/badge/icon/Next.js/black?icon=nextdotjs&label)
+![Tailwind CSS](https://badgen.net/badge/icon/Tailwind%20CSS/06B6D4?icon=tailwindcss&label)
+![Bootstrap](https://badgen.net/badge/icon/Bootstrap/563D7C?icon=bootstrap&label)
+![CSS3](https://badgen.net/badge/icon/CSS3/1572B6?icon=css3&label)
+![Firebase](https://badgen.net/badge/icon/Firebase/FFCA28?icon=firebase&label)
+![GitHub](https://badgen.net/badge/icon/GitHub/181717?icon=github&label)
+![HTML5](https://badgen.net/badge/icon/HTML5/E34F26?icon=html5&label)
 
 
 
