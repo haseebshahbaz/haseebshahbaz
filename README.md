@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Muhammad Haseeb!
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/d086a4c3-07d2-4331-a4d7-870f316d0f74"># 👋 Hello, I'm Muhammad Haseeb!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Continuous+Learner" alt="Typing SVG" />
@@ -17,12 +17,12 @@ I'm currently diving deeper into:
 
 ## 👨‍💻 Featured Projects
 
-### [Resume Builder](https://github.com/yourusername/resume-builder)
+### [Resume Builder]
 > **Status:** In Progress  
 > **Tech Stack:** React, Next.js, Tailwind CSS  
 > **Details:** A user-friendly application that allows users to create professional resumes with customizable templates and real-time previews.
 
-### [BLOGISTA.PK](https://haseebshahbaz.github.io/Internee.pk/)
+### [BLOGISTA.PK](https://blogista-blog-website.vercel.app/)
 > **Role:** Intern at Hi-SKY Tech  
 > **Tech Stack:** React, Firebase, Rich Text Editor  
 > **Features:** Dynamic blog platform, user authentication, content sharing
