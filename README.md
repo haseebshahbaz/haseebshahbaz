@@ -1,4 +1,4 @@
-<img width="947" alt="image" src="https://github.com/user-attachments/assets/d086a4c3-07d2-4331-a4d7-870f316d0f74"># 👋 Hello, I'm Muhammad Haseeb!
+# 👋 Hello, I'm Muhammad Haseeb!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Continuous+Learner" alt="Typing SVG" />
