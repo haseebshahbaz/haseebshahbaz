@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Haseeb&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F222E,100:192e3d&height=200&section=header&text=Muhammad%20Haseeb&fontSize=75&fontAlignY=40&animation=twinkling&fontColor=F85D7F" />
 </div>
+
+<h2 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | Open to Collaborations! 🚀</h2>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Haseeb!;+Full+Stack+Developer+💻;+MERN+Stack+Enthusiast+🚀" />
@@ -81,6 +83,8 @@
 
 <br/>
 
+<h3 align="center">🌟 *"The journey of a thousand miles begins with one step."* - Lao Tzu 🌟</h3>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F222E,100:192e3d&height=100&section=footer"/>
 </div>
