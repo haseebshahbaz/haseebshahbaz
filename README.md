@@ -1,87 +1,86 @@
-# 👋 Hello, I'm Muhammad Haseeb!
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Haseeb&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
 </div>
 
-## 🚀 About Me
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Haseeb!;+Full+Stack+Developer+💻;+MERN+Stack+Enthusiast+🚀" />
+</h3>
 
-I'm a passionate Full Stack Developer currently honing my skills at **SMIT (Saylani Mass IT Training)**. My focus is on the **MERN Stack**, and I love creating responsive and interactive web applications that provide seamless user experiences.
-
-## 🌱 Current Learning Focus
-
-I'm currently diving deeper into:
-- **Next.js** for building scalable and performant React applications
-- **MongoDB** for efficient database management
-- **Advanced React patterns** for creating reusable and maintainable components
-
-## 👨‍💻 Featured Projects
-
-### [Resume Builder]
-> **Status:** In Progress  
-> **Tech Stack:** React, Next.js, Tailwind CSS  
-> **Details:** A user-friendly application that allows users to create professional resumes with customizable templates and real-time previews.
-
-### [BLOGISTA.PK](https://blogista-blog-website.vercel.app/)
-> **Role:** Intern at Hi-SKY Tech  
-> **Tech Stack:** React, Firebase, Rich Text Editor  
-> **Features:** Dynamic blog platform, user authentication, content sharing
-
-### [INTERNEE.PK](https://haseebshahbaz.github.io/Internee.pk/)
-> **Role:** Intern at Internee.Pk  
-> **Tech Stack:** HTML, CSS, JavaScript  
-> **Highlights:** Redesigned frontend for improved UX, professional aesthetics
-
-### [TOOLSCAPE](https://toolscape.vercel.app/)
-> **Role:** Intern at Hi-SKY Tech  
-> **Tech Stack:** Next.js, AI Integration  
-> **Features:** AI tool showcase, image generation, background removal
-
-### [ECOMWARE](https://haseebshahbaz.github.io/ECOMWARE/)
-> **Type:** Personal E-commerce Project  
-> **Tech Stack:** React, Redux, Node.js  
-> **Features:** Product catalog, cart functionality, user authentication
-
-## 💼 Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-</p>
-
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haseebshahbaz&show_icons=true&theme=react" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebshahbaz&theme=react" alt="GitHub Streak" />
+ 
+ 🔭 I'm currently working on **Resume Builder**
+ 
+ 🌱 I'm currently learning **Next.js, MongoDB & Advanced React Patterns**
+
+ 💬 Ask me about **React, Next.js, Firebase, Node.js... or anything [here](https://github.com/haseebshahbaz/haseebshahbaz/issues)**
+
+ </div>
+
+<div align="center"> 
+  <a href="mailto:haseebshahbazpk786@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/mdhaseeb07/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://web.facebook.com/profile.php?id=100013907506597" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ch.haseebshahbaz/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebshahbaz&layout=compact&theme=react" alt="Top Languages" />
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=haseebshahbaz&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=haseebshahbaz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=haseebshahbaz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-## 🤝 Let's Connect!
+<br/><br/>
 
-<p align="center">
-  <a href="mailto:haseebshahbazpk786@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/mdhaseeb07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://web.facebook.com/profile.php?id=100013907506597"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/ch.haseebshahbaz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-
----
-
+<h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
+<br/>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=haseebshahbaz&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,mysql,flask" /><br>
 </div>
 
+<br/>
+
+<h2 align="center">🔥 Featured Projects 🔥</h2>
+<br/>
+
 <div align="center">
-  Thanks for visiting! Let's build something amazing together! 🚀
+    <a href="https://github.com/yourusername/resume-builder">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=haseebshahbaz&repo=resume-builder&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="resume-builder" />
+    </a>
+    <a href="https://blogista-blog-website.vercel.app/">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=haseebshahbaz&repo=blogista&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="blogista" />
+    </a>
+    <a href="https://toolscape.vercel.app/">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=haseebshahbaz&repo=toolscape&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="toolscape" />
+    </a>
+    <a href="https://haseebshahbaz.github.io/ECOMWARE/">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=haseebshahbaz&repo=ECOMWARE&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="ecomware" />
+    </a>
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
