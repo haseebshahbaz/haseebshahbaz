@@ -108,24 +108,19 @@
 
 <br/>
 
-<!-- Simple Styled Footer -->
+<!-- Simple Stylish Footer -->
 <footer style="background-color: #192e3d; color: white; padding: 20px; text-align: center; font-family: 'Fira Code', monospace;">
-  <p style="font-size: 20px; margin: 0;">Thanks for visiting!</p>
-  <p style="font-size: 16px; margin: 5px 0;">Let's build something amazing together!</p>
-  <div style="margin-top: 10px;">
-    <!-- Social Icons -->
-    <a href="mailto:haseebshahbazpk786@gmail.com" style="margin: 0 10px; text-decoration: none; color: white;">
-      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="30">
-    </a>
-    <a href="https://www.linkedin.com/in/mdhaseeb07/" target="_blank" style="margin: 0 10px; text-decoration: none; color: white;">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30">
-    </a>
-    <a href="https://web.facebook.com/profile.php?id=100013907506597" target="_blank" style="margin: 0 10px; text-decoration: none; color: white;">
-      <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="30">
-    </a>
-    <a href="https://www.instagram.com/ch.haseebshahbaz/" target="_blank" style="margin: 0 10px; text-decoration: none; color: white;">
-      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="30">
-    </a>
-  </div>
+  <p style="
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin: 0;
+    text-transform: uppercase;
+    background: linear-gradient(90deg, #f65329, #00c4ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  ">
+    Thanks for Visiting!
+  </p>
 </footer>
 
