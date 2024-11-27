@@ -65,47 +65,40 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <h3 align="center">BLOGISTA.PK</h3>
-        <div align="center">
-          <a href="https://blogista-blog-website.vercel.app/" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=haseebshahbaz&repo=blogista&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="BLOGISTA.PK"/>
-          </a>
-          <p align="center"><strong>React, Firebase, Rich Text Editor</strong> - Dynamic blog platform with user authentication and content sharing.</p>
-        </div>
+      <td width="50%" align="center">
+        <h3>BLOGISTA.PK</h3>
+        <a href="https://blogista-blog-website.vercel.app/" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=haseebshahbaz&repo=blogista&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="BLOGISTA.PK"/>
+        </a>
+        <p><strong>React, Firebase, Rich Text Editor</strong> - Dynamic blog platform with user authentication and content sharing.</p>
       </td>
-      <td width="50%">
-        <h3 align="center">TOOLSCAPE</h3>
-        <div align="center">
-          <a href="https://toolscape.vercel.app/" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=haseebshahbaz&repo=toolscape&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="TOOLSCAPE"/>
-          </a>
-          <p align="center"><strong>Next.js, AI Integration</strong> - AI tool showcase platform featuring image generation and background removal.</p>
-        </div>
+      <td width="50%" align="center">
+        <h3>TOOLSCAPE</h3>
+        <a href="https://toolscape.vercel.app/" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=haseebshahbaz&repo=toolscape&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="TOOLSCAPE"/>
+        </a>
+        <p><strong>Next.js, AI Integration</strong> - AI tool showcase platform featuring image generation and background removal.</p>
       </td>
     </tr>
     <tr>
-      <td width="50%">
-        <h3 align="center">ECOMWARE</h3>
-        <div align="center">
-          <a href="https://haseebshahbaz.github.io/ECOMWARE/" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=haseebshahbaz&repo=ECOMWARE&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="ECOMWARE"/>
-          </a>
-          <p align="center"><strong>React, Redux, Node.js</strong> - Comprehensive e-commerce platform with product catalog and cart functionality.</p>
-        </div>
+      <td width="50%" align="center">
+        <h3>ECOMWARE</h3>
+        <a href="https://haseebshahbaz.github.io/ECOMWARE/" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=haseebshahbaz&repo=ECOMWARE&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="ECOMWARE"/>
+        </a>
+        <p><strong>React, Redux, Node.js</strong> - Comprehensive e-commerce platform with product catalog and cart functionality.</p>
       </td>
-      <td width="50%">
-        <h3 align="center">INTERNEE.PK</h3>
-        <div align="center">
-          <a href="https://haseebshahbaz.github.io/Internee.pk/" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=haseebshahbaz&repo=Internee.pk&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="INTERNEE.PK"/>
-          </a>
-          <p align="center"><strong>HTML, CSS, JavaScript</strong> - Redesigned frontend for improved user experience and professional aesthetics.</p>
-        </div>
+      <td width="50%" align="center">
+        <h3>INTERNEE.PK</h3>
+        <a href="https://haseebshahbaz.github.io/Internee.pk/" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=haseebshahbaz&repo=Internee.pk&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="INTERNEE.PK"/>
+        </a>
+        <p><strong>HTML, CSS, JavaScript</strong> - Redesigned frontend for improved user experience and professional aesthetics.</p>
       </td>
     </tr>
   </table>
 </div>
+
 
 <div align="center">
   <h3  style="font-size: 24px; font-weight: bold; color: #f65329;">
