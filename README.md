@@ -1,8 +1,8 @@
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
 <style>
-    /* Custom font for the header and footer */
-    .header-footer-font {
-        font-family: 'Courier New', Courier, monospace; /* Example font */
-    }
+  header, footer {
+    font-family: 'Poppins', sans-serif;
+  }
 </style>
 
 <h1 align="center" class="header-footer-font">
