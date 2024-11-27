@@ -1,12 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3C1D6B,100:192E3D&height=200&section=header&text=Muhammad%20Haseeb&fontSize=75&fontAlignY=40&animation=twinkling&fontColor=E0AFFF" />
-</div>
-
-<h2 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | Open to Collaborations! 🚀</h2>
-
-<h3 align="center">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Haseeb!;+Full+Stack+Developer+💻;+MERN+Stack+Enthusiast+🚀" />
-</h3>
+</h1>
+
+<h3 align="center">Passionate Developer | Continuous Learner | Problem Solver</h3>
 
 <br/>
 
@@ -17,6 +13,8 @@
  🌱 I'm currently learning **Next.js, MongoDB & Advanced React Patterns**
 
  💬 Ask me about **React, Next.js, Firebase, Node.js... or anything [here](https://github.com/haseebshahbaz/haseebshahbaz/issues)**
+
+ ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
  </div>
 
@@ -35,6 +33,8 @@
   </a>
 </div>
 
+<hr/>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -44,22 +44,26 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=haseebshahbaz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
+<br/>
+
+<hr/>
 
 <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,mysql" /><br>
 </div>
 
 <br/>
+
+<hr/>
 
 <h2 align="center">🔥 Featured Projects 🔥</h2>
 <br/>
 
 <div align="center">
-    <a href="https://github.com/yourusername/resume-builder">
+    <a href="https://github.com/haseebshahbaz/resume-builder">
         <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=haseebshahbaz&repo=resume-builder&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="resume-builder" />
     </a>
     <a href="https://blogista-blog-website.vercel.app/">
@@ -82,9 +86,3 @@
 </h3>
 
 <br/>
-
-<h3 align="center">🌟 *"The journey of a thousand miles begins with one step."* - Lao Tzu 🌟</h3>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3C1D6B,100:192E3D&height=100&section=footer" />
-</div>
