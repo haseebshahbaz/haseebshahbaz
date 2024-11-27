@@ -1,4 +1,3 @@
-<!-- Simple Header -->
 <div align="center">
   <h1 style="font-size: 40px; color: #7A7ADB;">Welcome to Muhammad Haseeb's Profile</h1>
   <h3 style="color: #D3D3D3;">Crafting Digital Experiences | Solving Complex Problems | Building the Future</h3>
@@ -11,10 +10,15 @@
 <br/>
 
 <div align="center">
-  🔭 I'm currently working on **Resume Builder** (Work in Progress)  
-  🌱 I'm diving deeper into **Next.js, MongoDB & Advanced React Patterns**  
-  💬 Ask me about **React, Next.js, Firebase, Node.js** or check out my [portfolio](https://your-portfolio-url.com)  
-  ⚡ Fun fact: I can debug code faster than I can find my keys in the morning!
+ 
+ 🔭 I'm currently working on **Resume Builder** (Work in Progress)
+ 
+ 🌱 I'm diving deeper into **Next.js, MongoDB & Advanced React Patterns**
+
+ 💬 Ask me about **React, Next.js, Firebase, Node.js** or check out my [portfolio](https://your-portfolio-url.com)
+
+ ⚡ Fun fact: I can debug code faster than I can find my keys in the morning!
+
 </div>
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
@@ -96,9 +100,6 @@
   </a>
   <a href="https://www.linkedin.com/in/mdhaseeb07/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50"/>
-  </a>
-  <a href="https://web.facebook.com/profile.php?id=100013907506597" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="50"/>
   </a>
   <a href="https://www.instagram.com/ch.haseebshahbaz/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="50"/>
