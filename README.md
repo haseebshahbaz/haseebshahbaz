@@ -1,8 +1,8 @@
+<!-- Simple Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&center=true&vCenter=true&width=800&height=100&duration=4000&lines=Welcome+to+Muhammad+Haseeb's+Profile;Full+Stack+Developer;MERN+Stack+Enthusiast;Continuous+Learner" />
+  <h1 style="font-size: 40px; color: #7A7ADB;">Welcome to Muhammad Haseeb's Profile</h1>
+  <h3 style="color: #D3D3D3;">Crafting Digital Experiences | Solving Complex Problems | Building the Future</h3>
 </div>
-
-<h3 align="center">Crafting Digital Experiences | Solving Complex Problems | Building the Future</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=haseebshahbaz&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
@@ -11,25 +11,18 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I'm currently working on **Resume Builder** (Work in Progress)
- 
- 🌱 I'm diving deeper into **Next.js, MongoDB & Advanced React Patterns**
-
- 💬 Ask me about **React, Next.js, Firebase, Node.js** or check out my [portfolio](https://your-portfolio-url.com)
-
- ⚡ Fun fact: I can debug code faster than I can find my keys in the morning!
-
+  🔭 I'm currently working on **Resume Builder** (Work in Progress)  
+  🌱 I'm diving deeper into **Next.js, MongoDB & Advanced React Patterns**  
+  💬 Ask me about **React, Next.js, Firebase, Node.js** or check out my [portfolio](https://your-portfolio-url.com)  
+  ⚡ Fun fact: I can debug code faster than I can find my keys in the morning!
 </div>
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,mysql" /><br>
 </div>
-
-<br/>
 
 <br/>
 
@@ -96,23 +89,25 @@
 <br/>
 
 <h2 align="center">🤝 Let's Connect</h2>
+<br/>
 <div align="center">
-  <a href="mailto:haseebshahbazpk786@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:haseebshahbazpk786@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50"/>
   </a>
   <a href="https://www.linkedin.com/in/mdhaseeb07/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50"/>
   </a>
   <a href="https://web.facebook.com/profile.php?id=100013907506597" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="50"/>
   </a>
   <a href="https://www.instagram.com/ch.haseebshahbaz/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="50"/>
   </a>
 </div>
 
 <br/>
 
+<!-- Simple Animated Footer -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&width=800&height=50&duration=4000&lines=Thanks+for+visiting!+Let's+build+something+amazing+together!" alt="Outro" />
 </div>
