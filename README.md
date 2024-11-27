@@ -12,7 +12,7 @@
 <div align="center">
   🔭 I'm currently working on Resume Builder (Work in Progress)<br />
   🌱 I'm diving deeper into Next.js, MongoDB & Advanced React Patterns<br />
-  💬 Ask me about **React, Next.js, Firebase, Node.js** or check out my [portfolio](https://your-portfolio-url.com)<br />
+  💬 Ask me about React, Next.js, Firebase, Node.js or check out my portfolio<br />
   ⚡ Fun fact: I can debug code faster than I can find my keys in the morning!
 </div>
 
