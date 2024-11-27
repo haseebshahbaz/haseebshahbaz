@@ -110,19 +110,10 @@
 <br/>
 
 
-<!-- Simple Stylish Footer -->
-<footer style="background-color: #192e3d; color: white; padding: 20px; text-align: center; font-family: 'Fira Code', monospace;">
-  <p style="
-    font-size: 24px;
-    font-weight: bold;
-    letter-spacing: 2px;
-    margin: 0;
-    text-transform: uppercase;
-    background: linear-gradient(90deg, #f65329, #00c4ff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  ">
+<div align="center">
+  <h3  style="font-size: 24px; font-weight: bold; color: #f65329;">
     Thanks for Visiting!
-  </p>
-</footer>
+  </h3>
+</div>
+
 
