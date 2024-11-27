@@ -1,8 +1,15 @@
-<h1 align="center">
+<style>
+    /* Custom font for the header and footer */
+    .header-footer-font {
+        font-family: 'Courier New', Courier, monospace; /* Example font */
+    }
+</style>
+
+<h1 align="center" class="header-footer-font">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Haseeb!;+Full+Stack+Developer+💻;+MERN+Stack+Enthusiast+🚀" />
 </h1>
 
-<h3 align="center">Passionate Developer | Continuous Learner | Problem Solver</h3>
+<h3 align="center" class="header-footer-font">Passionate Developer | Continuous Learner | Problem Solver</h3>
 
 <br/>
 
@@ -14,7 +21,7 @@
 
  💬 Ask me about **React, Next.js, Firebase, Node.js... or anything [here](https://github.com/haseebshahbaz/haseebshahbaz/issues)**
 
- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+ ⚡ Fun fact: I love exploring the unknown corners of tech!
 
  </div>
 
@@ -33,9 +40,9 @@
   </a>
 </div>
 
-<hr/>
+<hr class="header-footer-font"/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center" class="header-footer-font">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=haseebshahbaz&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -46,9 +53,9 @@
 
 <br/>
 
-<hr/>
+<hr class="header-footer-font"/>
 
-<h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
+<h2 align="center" class="header-footer-font">🛠️ Languages-Frameworks-Tools 🛠️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
@@ -57,9 +64,9 @@
 
 <br/>
 
-<hr/>
+<hr class="header-footer-font"/>
 
-<h2 align="center">🔥 Featured Projects 🔥</h2>
+<h2 align="center" class="header-footer-font">🔥 Featured Projects 🔥</h2>
 <br/>
 
 <div align="center">
@@ -79,9 +86,9 @@
 
 <br/><br/>
 
-<hr/>
+<hr class="header-footer-font"/>
 
-<h3 align="center">
+<h3 align="center" class="header-footer-font">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)">
 </h3>
 
