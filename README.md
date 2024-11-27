@@ -30,6 +30,23 @@
 
 <br/>
 
+<h2 align="center">🤝 Let's Connect</h2>
+<br/>
+<div align="center">
+  <a href="mailto:haseebshahbazpk786@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mdhaseeb07/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50"/>
+  </a>
+  <a href="https://www.instagram.com/ch.haseebshahbaz/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="50"/>
+  </a>
+</div>
+
+<br/>
+
+
 <h2 align="center">📊 GitHub Stats</h2>
 <br/>
 <div align="center">
@@ -92,21 +109,6 @@
 
 <br/>
 
-<h2 align="center">🤝 Let's Connect</h2>
-<br/>
-<div align="center">
-  <a href="mailto:haseebshahbazpk786@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mdhaseeb07/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50"/>
-  </a>
-  <a href="https://www.instagram.com/ch.haseebshahbaz/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="50"/>
-  </a>
-</div>
-
-<br/>
 
 <!-- Simple Stylish Footer -->
 <footer style="background-color: #192e3d; color: white; padding: 20px; text-align: center; font-family: 'Fira Code', monospace;">
