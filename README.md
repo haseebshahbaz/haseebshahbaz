@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Welcome to Muhammad Haseeb's Profile</h1>
-  <h1 style="color: #D3D3D3;">Crafting Digital Experiences | Solving Complex Problems | Building the Future</h1>
+  <h2 style="color: #D3D3D3;">Crafting Digital Experiences | Solving Complex Problems | Building the Future</h2>
 </div>
 
 <div align="center">
