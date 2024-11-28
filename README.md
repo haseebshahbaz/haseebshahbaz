@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="font-size: 40px; color: #7A7ADB;">Welcome to Muhammad Haseeb's Profile</h1>
-  <h3 style="color: #D3D3D3;">Crafting Digital Experiences | Solving Complex Problems | Building the Future</h3>
+  <h2 style="color: #D3D3D3;">Crafting Digital Experiences | Solving Complex Problems | Building the Future</h2>
 </div>
 
 <div align="center">
@@ -91,5 +91,5 @@
 </div>
 
 <div align="center">
-  <h3 style="font-size: 24px; font-weight: bold; color: #f65329;">Thanks for Visiting!</h3>
+  <h2 style="font-size: 24px; font-weight: bold; color: #f65329;">Thanks for Visiting!</h2>
 </div>
