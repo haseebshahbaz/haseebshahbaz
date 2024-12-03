@@ -12,8 +12,15 @@
 <div align="center">
   🔭 I'm currently working on Resume Builder (Work in Progress)<br />
   🌱 I'm diving deeper into Next.js, MongoDB & Advanced React Patterns<br />
-  💬 Ask me about React, Next.js, Firebase, Node.js or check out my portfolio<br />
+  💬 Ask me about React, Next.js, Firebase, Node.js<br />
   ⚡ Fun fact: I can debug code faster than I can find my keys in the morning!
+</div>
+
+<h2 align="center">🌐 Check Out My Portfolio</h2>
+<div align="center">
+  <a href="https://mdhaseeb.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
@@ -90,6 +97,23 @@
   </table>
 </div>
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=haseebshahbaz&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<h2 align="center">📈 Contribution Graph</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haseebshahbaz&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<h2 align="center">💻 Coding Quote</h2>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Coding Quote" />
+</div>
+
 <div align="center">
   <h2 style="font-size: 24px; font-weight: bold; color: #f65329;">Thanks for Visiting!</h2>
+  <p>Feel free to star ⭐ some repositories if you find them interesting!</p>
 </div>
+
