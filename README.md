@@ -19,7 +19,7 @@
 <h2 align="center">🌐 Portfolio & Highlighted Projects</h2>
 <div align="center">
   <a href="https://mdhaseeb.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+<img src="https://img.shields.io/badge/My%20Portfolio-%231E88E5?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 <br />
@@ -67,7 +67,7 @@
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind," />
-  <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,,firebase,mongodb,nextjs," /><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,firebase,mongodb,nextjs," /><br />
 </div>
 
 <h2 align="center">🤝 Let's Connect</h2>
