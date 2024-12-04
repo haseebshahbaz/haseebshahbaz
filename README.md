@@ -66,23 +66,23 @@
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind," />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind," />
   <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,firebase,mongodb,nextjs," /><br />
 </div>
 
 <h2 align="center">🤝 Let's Connect</h2>
 <div align="center">
   <a href="mailto:haseebshahbazpk786@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50"/>
   </a>
   <a href="https://www.linkedin.com/in/mdhaseeb07/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50"/>
   </a>
   <a href="https://www.instagram.com/ch.haseebshahbaz/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="50"/>
   </a>
 </div>
-
+<br />
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haseebshahbaz&show_icons=true&count_private=true&hide_border=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GitHub Stats" width="48%" />
