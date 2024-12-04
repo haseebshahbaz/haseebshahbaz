@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=7A7ADB&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Haseeb;Full+Stack+Developer;Crafting+Digital+Experiences" alt="Typing SVG" />
+  <h1 style="font-size: 3em; color: #7A7ADB; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Muhammad Haseeb</h1>
+  <h3 style="font-size: 1.5em; color: #D3D3D3;">Full Stack Developer | Digital Experience Crafter | Problem Solver</h3>
 </div>
 
 <div align="center">
@@ -15,35 +16,49 @@
   ⚡ Fun fact: I can debug code faster than I can find my keys in the morning!
 </div>
 
-<h2 align="center">🌐 Portfolio & Projects</h2>
+<h2 align="center">🌐 Portfolio & Highlighted Projects</h2>
 <div align="center">
   <a href="https://your-portfolio-url.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <p>Explore my latest projects and see my skills in action!</p>
+</div>
+<br />
+<div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" width="50%">
+        <h3>BLOGISTA.PK</h3>
         <a href="https://blogista-blog-website.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/BLOGISTA.PK-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="BLOGISTA.PK"/>
+          <img src="https://img.shields.io/badge/View_Project-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="BLOGISTA.PK"/>
         </a>
+        <p>A dynamic blog platform with user authentication and content sharing.</p>
+        <p><strong>Tech Stack:</strong> React, Firebase, Rich Text Editor</p>
       </td>
-      <td align="center">
+      <td align="center" width="50%">
+        <h3>TOOLSCAPE</h3>
         <a href="https://toolscape.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/TOOLSCAPE-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="TOOLSCAPE"/>
+          <img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="TOOLSCAPE"/>
         </a>
+        <p>AI tool showcase platform featuring image generation and background removal.</p>
+        <p><strong>Tech Stack:</strong> Next.js, AI Integration</p>
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" width="50%">
+        <h3>ECOMWARE</h3>
         <a href="https://haseebshahbaz.github.io/ECOMWARE/" target="_blank">
-          <img src="https://img.shields.io/badge/ECOMWARE-FFA500?style=for-the-badge&logo=shopify&logoColor=white" alt="ECOMWARE"/>
+          <img src="https://img.shields.io/badge/View_Project-FFA500?style=for-the-badge&logo=shopify&logoColor=white" alt="ECOMWARE"/>
         </a>
+        <p>Comprehensive e-commerce platform with product catalog and cart functionality.</p>
+        <p><strong>Tech Stack:</strong> React, Redux, Node.js</p>
       </td>
-      <td align="center">
+      <td align="center" width="50%">
+        <h3>INTERNEE.PK</h3>
         <a href="https://haseebshahbaz.github.io/Internee.pk/" target="_blank">
-          <img src="https://img.shields.io/badge/INTERNEE.PK-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="INTERNEE.PK"/>
+          <img src="https://img.shields.io/badge/View_Project-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="INTERNEE.PK"/>
         </a>
+        <p>Redesigned frontend for improved user experience and professional aesthetics.</p>
+        <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript</p>
       </td>
     </tr>
   </table>
@@ -93,7 +108,5 @@
 <div align="center">
   <h2 style="color: #7A7ADB;">Thanks for visiting! 😊</h2>
   <p>Feel free to star ⭐ repositories if you find them interesting!</p>
-  
-  ![Snake animation](https://github.com/haseebshahbaz/haseebshahbaz/blob/output/github-contribution-grid-snake.svg)
 </div>
 
