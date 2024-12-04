@@ -1,5 +1,5 @@
 <div align="center">
-  <p style="font-size: 3em; color: #7A7ADB; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Hi 👋, I am Muhammad Haseeb</p>
+  <h1 style="font-size: 3em; color: #7A7ADB; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Hi 👋, I am Muhammad Haseeb</h1>
   <h3 style="font-size: 1.5em; color: #D3D3D3;">Full Stack Developer | Digital Experience Crafter | Problem Solver</h3>
 </div>
 
@@ -18,7 +18,7 @@
 
 <h2 align="center">🌐 Portfolio & Highlighted Projects</h2>
 <div align="center">
-  <a href="https://your-portfolio-url.com" target="_blank">
+  <a href="https://mdhaseeb.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
@@ -66,8 +66,8 @@
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,mongodb,firebase,mysql" /><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,materialui,figma,git" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind," />
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,,firebase,mongodb,nextjs," /><br />
 </div>
 
 <h2 align="center">🤝 Let's Connect</h2>
