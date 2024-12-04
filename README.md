@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-size: 3em; color: #7A7ADB; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Muhammad Haseeb</h1>
+  <p style="font-size: 3em; color: #7A7ADB; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Hi 👋, I am Muhammad Haseeb</p>
   <h3 style="font-size: 1.5em; color: #D3D3D3;">Full Stack Developer | Digital Experience Crafter | Problem Solver</h3>
 </div>
 
