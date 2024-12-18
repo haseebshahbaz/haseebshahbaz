@@ -35,22 +35,22 @@
         <p><strong>Tech Stack:</strong> React, Firebase, Rich Text Editor</p>
       </td>
       <td align="center" width="50%">
-        <h3>TOOLSCAPE</h3>
-        <a href="https://toolscape.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="TOOLSCAPE"/>
+        <h3>MORENT</h3>
+        <a href="https://morent-nextjs-hackathon-ui.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="MORENT"/>
         </a>
-        <p>AI tool showcase platform featuring image generation and background removal.</p>
-        <p><strong>Tech Stack:</strong> Next.js, AI Integration</p>
+        <p>Designed and developed a pixel-perfect car rental platform, Morent, with a focus on UI/UX principles during the UI/UX Hackathon.</p>
+        <p><strong>Tech Stack:</strong> Next.js, Tailwind CSS, Shadecn/ui</p>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <h3>ECOMWARE</h3>
-        <a href="https://haseebshahbaz.github.io/ECOMWARE/" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-FFA500?style=for-the-badge&logo=shopify&logoColor=white" alt="ECOMWARE"/>
+        <h3>EXCLUSIVE</h3>
+        <a href="https://shopexclusive.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-FFA500?style=for-the-badge&logo=shopify&logoColor=white" alt="EXCLUSIVE"/>
         </a>
-        <p>Comprehensive e-commerce platform with product catalog and cart functionality.</p>
-        <p><strong>Tech Stack:</strong> React, Redux, Node.js</p>
+        <p>Created an exclusive, pixel-perfect eCommerce platform with a focus on UI/UX design, delivering a visually stunning and user-friendly shopping experience.</p>
+        <p><strong>Tech Stack:</strong Next.js, Tailwind CSS, Shadecn/ui</p>
       </td>
       <td align="center" width="50%">
         <h3>INTERNEE.PK</h3>
