@@ -100,34 +100,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=haseebshahbaz&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophy" />
 </div>
 
-
-<div align="center">
-  <h3 style="font-style: italic; color: #9F9FD5;">"Crafting digital experiences that make a difference"</h3>
-</div>
-
-<h2 align="center">🎓 Education & Certifications</h2>
-<div align="center">
-  <!-- Add your educational background and certifications here -->
-</div>
-
-<h2 align="center">📚 Latest Blog Posts</h2>
-<div align="center">
-  <!-- Add links to your most recent blog posts or articles here -->
-</div>
-
-<h2 align="center">🤝 Open for Collaboration</h2>
-<div align="center">
-  <p>I'm always excited to work on new projects! If you're interested in collaborating, check out these repos:</p>
-  <!-- Add links to repositories you're seeking contributions for -->
-</div>
-
-<h2 align="center">☕ Support My Work</h2>
-<div align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-  </a>
-</div>
-
 <h2 align="center">📈 Contribution Graph</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=haseebshahbaz&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
